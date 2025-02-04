@@ -1,0 +1,23 @@
+﻿Сборка начата 09.12.2024 20:10:22.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\сп\lab8\lab8\Mappingd\Mappingd.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\Mappingd.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Mappingd.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\сп\lab8\lab8\x64\Debug\Mappingd.dll" /INCREMENTAL /ILK:"x64\Debug\Mappingd.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"Mappingd.def" /MANIFEST /MANIFESTUAC:NO /manifest:embed /DEBUG /PDB:"D:\лабы\сп\lab8\lab8\x64\Debug\Mappingd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\сп\lab8\lab8\x64\Debug\Mappingd.lib" /MACHINE:X64 /DLL x64\Debug\dllmain.obj
+            Создается библиотека D:\лабы\сп\lab8\lab8\x64\Debug\Mappingd.lib и объект D:\лабы\сп\lab8\lab8\x64\Debug\Mappingd.exp
+         Mappingd.vcxproj -> D:\лабы\сп\lab8\lab8\x64\Debug\Mappingd.dll
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Mappingd.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Mappingd.tlog\Mappingd.lastbuildstate".
+     1>Сборка проекта "D:\лабы\сп\lab8\lab8\Mappingd\Mappingd.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.47

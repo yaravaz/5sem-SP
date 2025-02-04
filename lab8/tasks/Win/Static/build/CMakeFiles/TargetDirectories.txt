@@ -1,0 +1,6 @@
+D:/лабы/сп/lab8/tasks/Win/Static/build/CMakeFiles/Lab-08a.dir
+D:/лабы/сп/lab8/tasks/Win/Static/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab8/tasks/Win/Static/build/CMakeFiles/rebuild_cache.dir
+D:/лабы/сп/lab8/tasks/Win/Static/build/library/CMakeFiles/Mappings.dir
+D:/лабы/сп/lab8/tasks/Win/Static/build/library/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab8/tasks/Win/Static/build/library/CMakeFiles/rebuild_cache.dir

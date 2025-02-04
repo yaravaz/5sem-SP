@@ -1,0 +1,4 @@
+D:/лабы/сп/lab8/tasks/Win/Dynamic2/build/CMakeFiles/Mappingd-2.dir
+D:/лабы/сп/lab8/tasks/Win/Dynamic2/build/CMakeFiles/Lab-08b.dir
+D:/лабы/сп/lab8/tasks/Win/Dynamic2/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab8/tasks/Win/Dynamic2/build/CMakeFiles/rebuild_cache.dir

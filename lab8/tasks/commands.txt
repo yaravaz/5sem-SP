@@ -1,0 +1,9 @@
+cmake -S . -B ./build -DCMAKE_C_COMPILER=clang -G "Ninja"
+cmake --build ./build
+cd build
+MyExe.exe
+
+
+cmake .. -DCMAKE_C_COMPILER=clang
+cmake --build .
+./MyExe

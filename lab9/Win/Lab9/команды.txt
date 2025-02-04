@@ -1,0 +1,17 @@
+ServiceCtl Service09 Create "D:\lab9\Win\Lab9\x64\Debug\Service09.exe"
+ServiceCtl Service09 Start "D:\lab9\Win\folder" "D:\lab9\Win\logs"
+ServiceCtl Service09 Stop
+ServiceCtl Service09 Pause
+ServiceCtl Service09 Continue 
+ServiceCtl Service09 Delete
+ServiceCtl Service09 Info
+
+
+sc create Service09 binPath= "D:\lab9\Win\Lab9\x64\Debug\Service09.exe D:\lab9\Win\folder"
+net start Service09
+net stop Service09
+net pause Service09
+net continue Service09
+sc delete Service09 
+
+sc query Service09

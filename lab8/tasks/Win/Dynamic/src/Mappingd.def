@@ -1,0 +1,9 @@
+LIBRARY Mappingd
+EXPORTS
+    createSampleFile
+    OpenMapping @1
+    AddRow
+    RemRow
+    PrintRow
+    PrintRows
+    CloseMapping

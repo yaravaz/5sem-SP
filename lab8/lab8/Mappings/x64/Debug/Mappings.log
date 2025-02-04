@@ -1,0 +1,23 @@
+﻿Сборка начата 09.12.2024 16:38:36.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\сп\lab8\lab8\Mappings\Mappings.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\Mappings.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Mappings.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"D:\лабы\сп\lab8\lab8\x64\Debug\Mappings.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt Mappings.c
+         Mappings.c
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\Lib.exe /OUT:"D:\лабы\сп\lab8\lab8\x64\Debug\Mappings.lib" /NOLOGO /MACHINE:X64 x64\Debug\Mappings.obj
+         Mappings.vcxproj -> D:\лабы\сп\lab8\lab8\x64\Debug\Mappings.lib
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Mappings.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Mappings.tlog\Mappings.lastbuildstate".
+     1>Сборка проекта "D:\лабы\сп\lab8\lab8\Mappings\Mappings.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.41

@@ -1,0 +1,21 @@
+﻿Сборка начата 25.12.2024 18:25:31.
+Уровень детализации журнала: Normal.     1>Проект "D:\lab9\Win\Lab9\Service09\Service09.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\Service09.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\lab9\Win\Lab9\x64\Debug\Service09.exe" /INCREMENTAL /ILK:"x64\Debug\Service09.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\lab9\Win\Lab9\x64\Debug\Service09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\lab9\Win\Lab9\x64\Debug\Service09.lib" /MACHINE:X64 x64\Debug\Service09.obj
+         Service09.vcxproj -> D:\lab9\Win\Lab9\x64\Debug\Service09.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Service09.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Service09.tlog\Service09.lastbuildstate".
+     1>Сборка проекта "D:\lab9\Win\Lab9\Service09\Service09.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.46

@@ -1,0 +1,10 @@
+[Unit]
+Description=Service09d Daemon
+After=network.target
+
+[Service]
+ExecStart=/home/vetirvex/Desktop/sp/lab9/build/service09d
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
