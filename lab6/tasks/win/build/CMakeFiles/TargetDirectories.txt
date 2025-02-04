@@ -1,0 +1,5 @@
+D:/лабы/сп/lab6/tasks/win/build/CMakeFiles/Lab-06a.dir
+D:/лабы/сп/lab6/tasks/win/build/CMakeFiles/Lab-06b.dir
+D:/лабы/сп/lab6/tasks/win/build/CMakeFiles/Lab-06c.dir
+D:/лабы/сп/lab6/tasks/win/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab6/tasks/win/build/CMakeFiles/rebuild_cache.dir

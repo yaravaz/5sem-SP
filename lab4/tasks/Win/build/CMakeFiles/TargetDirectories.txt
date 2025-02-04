@@ -1,0 +1,4 @@
+D:/лабы/сп/lab4/tasks/build/CMakeFiles/Lab-04.dir
+D:/лабы/сп/lab4/tasks/build/CMakeFiles/Lab-04b.dir
+D:/лабы/сп/lab4/tasks/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab4/tasks/build/CMakeFiles/rebuild_cache.dir

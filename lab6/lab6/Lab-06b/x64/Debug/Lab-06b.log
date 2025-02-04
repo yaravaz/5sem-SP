@@ -1,0 +1,45 @@
+﻿Сборка начата 18.11.2024 19:25:30.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\Lab-06b.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Lab-06b.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt "Lab-06b.c"
+         Lab-06b.c
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(125,39): warning C4244: функция: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(139,21): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(145,25): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(149,22): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(170,35): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(116,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(210,39): warning C4244: функция: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(265,35): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+     1>D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(290,39): warning C4244: функция: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\сп\lab6\lab6\x64\Debug\Lab-06b.exe" /INCREMENTAL /ILK:"x64\Debug\Lab-06b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы\сп\lab6\lab6\x64\Debug\Lab-06b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\сп\lab6\lab6\x64\Debug\Lab-06b.lib" /MACHINE:X64 "x64\Debug\Lab-06b.obj"
+         Lab-06b.vcxproj -> D:\лабы\сп\lab6\lab6\x64\Debug\Lab-06b.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab-06b.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab-06b.tlog\Lab-06b.lastbuildstate".
+     1>Сборка проекта "D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(125,39): warning C4244: функция: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(139,21): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(145,25): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(149,22): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(170,35): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(116,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(210,39): warning C4244: функция: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(265,35): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+         D:\лабы\сп\lab6\lab6\Lab-06b\Lab-06b.c(290,39): warning C4244: функция: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+
+    Предупреждений: 9
+    Ошибок: 0
+
+Прошло времени 00:00:00.46

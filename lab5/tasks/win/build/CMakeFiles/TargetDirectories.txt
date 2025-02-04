@@ -1,0 +1,5 @@
+D:/лабы/сп/lab5/tasks/win/build/CMakeFiles/Lab-05a.dir
+D:/лабы/сп/lab5/tasks/win/build/CMakeFiles/Lab-05b.dir
+D:/лабы/сп/lab5/tasks/win/build/CMakeFiles/Lab-05c.dir
+D:/лабы/сп/lab5/tasks/win/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab5/tasks/win/build/CMakeFiles/rebuild_cache.dir

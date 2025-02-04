@@ -1,0 +1,3 @@
+D:/лабы/сп/lab7/tasks/Win/build/CMakeFiles/Lab-07.dir
+D:/лабы/сп/lab7/tasks/Win/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab7/tasks/Win/build/CMakeFiles/rebuild_cache.dir
