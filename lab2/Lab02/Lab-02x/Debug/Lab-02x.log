@@ -1,0 +1,23 @@
+﻿Сборка начата 08.10.2024 10:23:46.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\сп\lab2\Lab02\Lab-02x\Lab-02x.vcxproj" в узле 4 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\Lab-02x.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\Lab-02x.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TC /analyze- /FC /errorReport:prompt "Lab-02x.c"
+         Lab-02x.c
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\сп\lab2\Lab02\Debug\Lab-02x.exe" /INCREMENTAL /ILK:"Debug\Lab-02x.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы\сп\lab2\Lab02\Debug\Lab-02x.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\сп\lab2\Lab02\Debug\Lab-02x.lib" /MACHINE:X86 "Debug\Lab-02x.obj"
+         Lab-02x.vcxproj -> D:\лабы\сп\lab2\Lab02\Debug\Lab-02x.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab-02x.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab-02x.tlog\Lab-02x.lastbuildstate".
+     1>Сборка проекта "D:\лабы\сп\lab2\Lab02\Lab-02x\Lab-02x.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.12

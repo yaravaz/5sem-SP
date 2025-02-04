@@ -1,0 +1,4 @@
+C:/AllMine/Labs/SP/lab3/tasks/task2/build/CMakeFiles/Lab-03b-server.dir
+C:/AllMine/Labs/SP/lab3/tasks/task2/build/CMakeFiles/Lab-03b-client.dir
+C:/AllMine/Labs/SP/lab3/tasks/task2/build/CMakeFiles/edit_cache.dir
+C:/AllMine/Labs/SP/lab3/tasks/task2/build/CMakeFiles/rebuild_cache.dir

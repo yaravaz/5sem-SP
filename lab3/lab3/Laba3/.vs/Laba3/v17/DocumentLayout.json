@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0982677-E848-4F74-A119-1970FD92DAEF}|Lab-03b-server\\Lab-03b-server.vcxproj|C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03b-server\\Lab-03b-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0982677-E848-4F74-A119-1970FD92DAEF}|Lab-03b-server\\Lab-03b-server.vcxproj|solutionrelative:Lab-03b-server\\Lab-03b-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AD2B0C-5CED-4C01-9BB3-621C09578AE6}|Lab-03b-client\\Lab-03b-client.vcxproj|C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03b-client\\Lab-03b-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0AD2B0C-5CED-4C01-9BB3-621C09578AE6}|Lab-03b-client\\Lab-03b-client.vcxproj|solutionrelative:Lab-03b-client\\Lab-03b-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED994560-5B61-48E8-8A00-AE5199FD05AF}|Lab-03a-server\\Lab-03a-server.vcxproj|C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03a-server\\Lab-03a-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED994560-5B61-48E8-8A00-AE5199FD05AF}|Lab-03a-server\\Lab-03a-server.vcxproj|solutionrelative:Lab-03a-server\\Lab-03a-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36141919-95F4-406E-B3D7-4B1A31A5B854}|Lab-03a-client\\Lab-03a-client.vcxproj|C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03a-client\\Lab-03a-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36141919-95F4-406E-B3D7-4B1A31A5B854}|Lab-03a-client\\Lab-03a-client.vcxproj|solutionrelative:Lab-03a-client\\Lab-03a-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-03b-server.c",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03b-server\\Lab-03b-server.c",
+              "RelativeDocumentMoniker": "Lab-03b-server\\Lab-03b-server.c",
+              "ToolTip": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03b-server\\Lab-03b-server.c",
+              "RelativeToolTip": "Lab-03b-server\\Lab-03b-server.c",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwDoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-25T15:10:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-03b-client.c",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03b-client\\Lab-03b-client.c",
+              "RelativeDocumentMoniker": "Lab-03b-client\\Lab-03b-client.c",
+              "ToolTip": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03b-client\\Lab-03b-client.c",
+              "RelativeToolTip": "Lab-03b-client\\Lab-03b-client.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwFEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-25T15:07:42.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab-03a-server.c",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03a-server\\Lab-03a-server.c",
+              "RelativeDocumentMoniker": "Lab-03a-server\\Lab-03a-server.c",
+              "ToolTip": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03a-server\\Lab-03a-server.c",
+              "RelativeToolTip": "Lab-03a-server\\Lab-03a-server.c",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwJQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-18T15:23:59.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab-03a-client.c",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03a-client\\Lab-03a-client.c",
+              "RelativeDocumentMoniker": "Lab-03a-client\\Lab-03a-client.c",
+              "ToolTip": "C:\\AllMine\\Labs\\SP\\lab3\\Laba3\\Lab-03a-client\\Lab-03a-client.c",
+              "RelativeToolTip": "Lab-03a-client\\Lab-03a-client.c",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-18T15:07:30.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

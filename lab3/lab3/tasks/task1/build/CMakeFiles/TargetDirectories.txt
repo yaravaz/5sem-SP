@@ -1,0 +1,3 @@
+D:/лабы/сп/lab3/lab3/tasks/task1/build/CMakeFiles/Lab-03a-server.dir
+D:/лабы/сп/lab3/lab3/tasks/task1/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab3/lab3/tasks/task1/build/CMakeFiles/rebuild_cache.dir

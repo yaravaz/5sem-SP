@@ -1,0 +1,46 @@
+﻿Сборка начата 10.09.2024 10:18:56.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\сп\lab1\lab1\lab1.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\lab1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\lab1.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt Array.c Array_tests.c main.c Pointer.c Pointer_tests.c
+         Array.c
+         Array_tests.c
+         main.c
+     1>D:\лабы\сп\lab1\lab1\Array.c(13,17): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+     1>D:\лабы\сп\lab1\lab1\Array.c(14,16): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+         Pointer.c
+     1>D:\лабы\сп\lab1\lab1\Pointer.c(12,17): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+     1>D:\лабы\сп\lab1\lab1\Pointer.c(13,16): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+         Pointer_tests.c
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\сп\lab1\x64\Debug\lab1.exe" /INCREMENTAL /ILK:"x64\Debug\lab1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы\сп\lab1\x64\Debug\lab1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\сп\lab1\x64\Debug\lab1.lib" /MACHINE:X64 x64\Debug\Array.obj
+         x64\Debug\Array_tests.obj
+         x64\Debug\main.obj
+         x64\Debug\Pointer.obj
+         x64\Debug\Pointer_tests.obj
+         lab1.vcxproj -> D:\лабы\сп\lab1\x64\Debug\lab1.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: D:\лабы\сп\лаб1\lab1\lab1\Array.c.
+       FinalizeBuildStatus:
+         Файл "x64\Debug\lab1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\lab1.tlog\lab1.lastbuildstate".
+     1>Сборка проекта "D:\лабы\сп\lab1\lab1\lab1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\лабы\сп\lab1\lab1\lab1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\лабы\сп\lab1\lab1\Array.c(13,17): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+         D:\лабы\сп\lab1\lab1\Array.c(14,16): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+         D:\лабы\сп\lab1\lab1\Pointer.c(12,17): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+         D:\лабы\сп\lab1\lab1\Pointer.c(13,16): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:00.61

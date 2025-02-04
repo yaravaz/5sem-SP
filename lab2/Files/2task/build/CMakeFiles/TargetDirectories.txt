@@ -1,0 +1,3 @@
+D:/лабы/сп/lab2/Files/2task/build/CMakeFiles/Lab-02a.dir
+D:/лабы/сп/lab2/Files/2task/build/CMakeFiles/edit_cache.dir
+D:/лабы/сп/lab2/Files/2task/build/CMakeFiles/rebuild_cache.dir

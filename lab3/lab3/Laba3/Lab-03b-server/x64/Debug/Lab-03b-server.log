@@ -1,0 +1,29 @@
+﻿Сборка начата 28.10.2024 19:52:31.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\сп\lab3\lab3\Laba3\Lab-03b-server\Lab-03b-server.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\Lab-03b-server.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Lab-03b-server.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt "Lab-03b-server.c"
+         Lab-03b-server.c
+     1>D:\лабы\сп\lab3\lab3\Laba3\Lab-03b-server\Lab-03b-server.c(54,60): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\сп\lab3\lab3\Laba3\x64\Debug\Lab-03b-server.exe" /INCREMENTAL /ILK:"x64\Debug\Lab-03b-server.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы\сп\lab3\lab3\Laba3\x64\Debug\Lab-03b-server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\сп\lab3\lab3\Laba3\x64\Debug\Lab-03b-server.lib" /MACHINE:X64 "x64\Debug\Lab-03b-server.obj"
+         Lab-03b-server.vcxproj -> D:\лабы\сп\lab3\lab3\Laba3\x64\Debug\Lab-03b-server.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab-03b-server.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab-03b-server.tlog\Lab-03b-server.lastbuildstate".
+     1>Сборка проекта "D:\лабы\сп\lab3\lab3\Laba3\Lab-03b-server\Lab-03b-server.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\лабы\сп\lab3\lab3\Laba3\Lab-03b-server\Lab-03b-server.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\лабы\сп\lab3\lab3\Laba3\Lab-03b-server\Lab-03b-server.c(54,60): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.57
